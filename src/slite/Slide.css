@@ -1,0 +1,10 @@
+.img {
+    width: 2000px;
+    height: 400px;
+    
+    line-height: 150px;
+    text-align: center;
+}
+.text {
+    color: red;
+}
